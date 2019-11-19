@@ -3,7 +3,7 @@
 For all files in WebApp:
 written by: Joseph Gordon
 tested by: Joseph Gordon, Ashish Motyala, 
-debugged by: Joseph Gordon, Dunbar Birnie, Colter Mooney
+debugged by: Joseph Gordon, Dunbar Birnie, Colter Mooney,Keeyan Haghshenas
 
 In the Code->WebApp folder there is a copy of our repository for our .NET Web App.
 All of our files are in here, however, if you wish to compile and run them,
