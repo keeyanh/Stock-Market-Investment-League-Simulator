@@ -26,7 +26,7 @@ Code->WebApp->Ducklab->Views
 Android Application:
 
 For all files in Android Application:
-written by: Dunbar Birnie
+written by: Dunbar Birnie,Keeyan Haghshenas
 tested by: Dunbar Birnie, Joseph Gordon, Ashish Motyala 
 debugged by: All Team Members
 
